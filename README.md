@@ -6,7 +6,7 @@ many years ago, writes with MASM32 API hook procedures. You can hide directories
 
 **Authors**
 
-droidwolf [droidwolf2006@gmail.com](mailto:droidwolf2006@gmail.com "droidwolf2010@gmail.com")
+droidwolf [droidwolf2006@gmail.com](mailto:droidwolf2006@gmail.com "droidwolf2006@gmail.com")
 
 
 **License**
